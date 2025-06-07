@@ -7,4 +7,4 @@ My name is Emma, and I'm currently a 5th year student at University of British C
 ... currently under construction
 
 # Projects
-[Employee Attrition](https://github.com/emmaoh/Portfolio/blob/main/Employee%20Attrition.ipynb)
+[Employee Attrition](https://github.com/emmaoh/Portfolio/blob/main/Employee%20Attrition/Employee%20Attrition.ipynb)
