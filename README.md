@@ -8,3 +8,5 @@ My name is Emma, and I'm currently a 5th year student at University of British C
 
 # Projects
 [Employee Attrition](https://github.com/emmaoh/Portfolio/blob/main/Employee%20Attrition/Employee%20Attrition.ipynb)
+
+[The Influence of Sensory and Environmental Conditions on Human Reaction Times](https://github.com/emmaoh/Portfolio/tree/main/Human%20Reaction%20Time)
